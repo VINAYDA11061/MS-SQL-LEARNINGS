@@ -14,6 +14,24 @@ There will be “relation” between the tables.
 Every value stored in the relational database is accessible. This value can be updated by the system.
 Examples : SQL Server, Oracle etc
 
+### MS SQL Server
+
+To Get Line Numbers : Tools - Options - Text Editor - Transact SQL - Line Numbers(Check the box)
+ Three options to execute your query : 
+	 Execute button at the top of the query window
+	 Use F5 (fn+F5)
+	 Ctrl + E
+ To hide/unhide the results/console window/pane : Ctrl + R
+ To Comment a line of code  : Ctrl+K+C
+ To uncomment : Ctrl+K+U
+ -- 2 types of comments
+	-- Single Line : --
+	-- Multi Line  : /*.....*/
+
+-- Tables in SQL Server
+	-- Table is a container that comprises of multiple fields(columns) that helps us in storing data
+	-- Alt + F1 - To view the metadata of the object
+
 
 ### Chodd__Rules
 Dr Edgar F. Codd, after his extensive research on the Relational Model of database systems, came up with twelve rules of his own, which according to him, 
